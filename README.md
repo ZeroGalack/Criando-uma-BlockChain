@@ -58,7 +58,7 @@ Eles são como os "notários públicos" do sistema:
 - Garantem que ninguém gaste duas vezes,
 - E ainda competem entre si sem precisar confiar uns nos outros.
 
-A economia das criptomoedas baseadas em Proof of Work (como o Bitcoin)\*\*:
+A economia das criptomoedas baseadas em Proof of Work (como o Bitcoin):
 
 ---
 

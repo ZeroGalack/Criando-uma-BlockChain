@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "11c6d959eea07f2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceaea345abe1d573",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2b5ac3f556da2f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hash"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a53f09e06e4f06a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eb4ac18f84bfb6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae8a6954ac5e7a3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "1931f8c117228471",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "26da243aa79b15d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b4d2d947ec354e5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ede7cec40f7bf80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5ef48a033c0048c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Economia das criptomoedas baseadas em Proof of Work.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Economia das criptomoedas baseadas em Proof of Work"
+            }
+          },
+          {
+            "id": "3328b5903fb657ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Economia das criptomoedas baseadas em Proof of Work.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Economia das criptomoedas baseadas em Proof of Work"
+            }
+          },
+          {
+            "id": "5e06ab1190ba5f84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d59e5607795aa34d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Economia das criptomoedas baseadas em Proof of Work.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Economia das criptomoedas baseadas em Proof of Work"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "ae8a6954ac5e7a3f",
+  "lastOpenFiles": [
+    "README.md",
+    "gitignore",
+    "Hash.md",
+    "teste.py",
+    "Economia das criptomoedas baseadas em Proof of Work.md",
+    "make_transaction.py",
+    "post_transaction.py",
+    "__pycache__/blockchain.cpython-311.pyc",
+    "__pycache__",
+    "servidor.py",
+    "blockchain.py",
+    "env/Lib/site-packages/flask-3.1.1.dist-info/licenses/LICENSE.txt",
+    "env/Lib/site-packages/flask-3.1.1.dist-info/WHEEL",
+    "env/Lib/site-packages/flask/sansio/README.md",
+    "env/Lib/site-packages/werkzeug/debug/shared/more.png",
+    "env/Lib/site-packages/werkzeug/debug/shared/ICON_LICENSE.md",
+    "env/Lib/site-packages/werkzeug/debug/shared/less.png",
+    "env/Lib/site-packages/werkzeug/debug/shared/console.png",
+    "env/Lib/site-packages/idna-3.10.dist-info/LICENSE.md"
+  ]
+}
